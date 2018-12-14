@@ -1,0 +1,15 @@
+{
+  "name": "images-moi",
+  "version": "1.0.0",
+  "description": "Proxy to get images from html2canvas",
+  "main": "server.js",
+  "author": "Darwin Gualotuña",
+  "keywords": [
+    "proxy",
+    "html2canvas"
+  ],
+  "dependencies": {
+    "express": "^4.16.4",
+    "html2canvas-proxy": "^1.0.1"
+  }
+}
